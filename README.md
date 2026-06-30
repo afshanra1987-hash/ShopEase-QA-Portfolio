@@ -108,3 +108,36 @@ ShopEase-QA-Portfolio
 Manual QA Engineer
 
 GitHub Portfolio
+
+
+## About Me
+
+I'm a Manual QA Engineer passionate about software quality, API testing, SQL validation, and creating well-structured QA documentation.
+
+Currently seeking Manual QA / QA Analyst opportunities.
+
+
+## Skills
+
+- Manual Testing
+- API Testing
+- SQL
+- Jira
+- Postman
+- Git
+- GitHub
+- Excel
+- Regression Testing
+- Smoke Testing
+- SDLC
+- STLC
+
+
+
+## Tech Stack
+
+- Jira
+- Postman
+- SQL
+- GitHub
+- Excel
