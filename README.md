@@ -1,37 +1,57 @@
 # 🛒 ShopEase QA Portfolio
 
-Professional Manual QA Portfolio demonstrating end-to-end software testing for a simulated e-commerce application.
+Professional Manual QA Portfolio demonstrating end-to-end software testing for a simulated e-commerce web application.
 
 ---
 
 # 📋 Project Overview
 
-This repository contains QA documentation and testing artifacts created for the **ShopEase** web application.
+This repository showcases the complete QA lifecycle for the **ShopEase** application.
 
-The project demonstrates the complete QA lifecycle from planning to execution.
+The project demonstrates practical Manual QA skills including planning, test design, execution, API testing, SQL validation, bug reporting, and test documentation.
 
 ---
 
-# ✅ Skills Covered
+# 🎯 Project Goal
+
+The purpose of this project is to demonstrate the software testing process used by Manual QA Engineers and QA Analysts.
+
+This project includes:
+
+- Test Planning
+- Test Case Design
+- Test Execution
+- Bug Reporting
+- API Testing
+- SQL Validation
+- Smoke Testing
+- Regression Testing
+- Requirement Traceability
+
+---
+
+# ✅ Skills Demonstrated
 
 - Manual Testing
 - Functional Testing
-- API Testing
-- SQL Validation
-- Database Testing
 - Smoke Testing
 - Regression Testing
+- API Testing
+- Database Testing
+- SQL Validation
 - Exploratory Testing
+- Negative Testing
+- SDLC
+- STLC
 - Jira
 - Postman
 - Git
 - GitHub
-- SDLC
-- STLC
+- Microsoft Excel
 
 ---
 
-# 📸 Project Screenshots
+# 📸 Project Preview
 
 ## Login Module
 
@@ -51,6 +71,12 @@ The project demonstrates the complete QA lifecycle from planning to execution.
 
 ---
 
+## Shop Page
+
+![Shop Page](Screenshots/Shop_Page.png)
+
+---
+
 ## API Testing
 
 ![API Testing](Screenshots/API_Testing_Postman.png)
@@ -60,21 +86,6 @@ The project demonstrates the complete QA lifecycle from planning to execution.
 ## Bug Report
 
 ![Bug Report](Screenshots/jira_bug_report.png)
-
----
-
-# 🧩 QA Activities
-
-- Test Planning
-- Test Case Design
-- Bug Reporting
-- Test Data Preparation
-- Test Execution
-- Requirement Traceability
-- API Testing
-- SQL Validation
-- Smoke Testing
-- Regression Testing
 
 ---
 
@@ -113,17 +124,19 @@ ShopEase-QA-Portfolio
 | Checkout | ✅ Complete |
 | API Testing | ✅ Complete |
 | SQL Validation | ✅ Complete |
+| Smoke Testing | ✅ Complete |
+| Regression Testing | ✅ Complete |
 
 ---
 
-# 📑 QA Documents
+# 📄 QA Documentation
 
 - Test Plan
 - Test Cases
 - Bug Reports
 - Test Data
 - Test Execution Reports
-- Traceability Matrix
+- Requirement Traceability Matrix
 - API Testing Collection
 - SQL Validation Queries
 
@@ -131,11 +144,49 @@ ShopEase-QA-Portfolio
 
 # 🛠 Tools & Technologies
 
-- Jira
-- Postman
-- SQL
-- Git
-- GitHub
-- Microsoft Excel
+| Tool | Purpose |
+|------|---------|
+| Jira | Bug Tracking |
+| Postman | API Testing |
+| MySQL | Database Validation |
+| DBeaver | SQL Query Execution |
+| Git | Version Control |
+| GitHub | Portfolio Management |
+| Microsoft Excel | Test Documentation |
 
 ---
+
+# 🔗 Related Projects
+
+## ShopQA SQL Project
+
+A dedicated SQL portfolio demonstrating:
+
+- Database Design
+- Database Testing
+- SQL Queries
+- INNER JOIN
+- Aggregate Functions
+- Data Validation
+
+Repository:
+
+https://github.com/afshanra1987-hash/shopqa-sql-project
+
+---
+
+# 👩‍💻 About Me
+
+I'm a Manual QA Engineer passionate about software quality, API testing, SQL validation, and creating well-structured QA documentation.
+
+Currently seeking Manual QA Engineer and QA Analyst opportunities.
+
+---
+
+# 👤 Author
+
+**Afshan Rajabi**
+
+Manual QA Engineer
+
+GitHub Portfolio
